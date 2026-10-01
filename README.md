@@ -8,7 +8,7 @@ Built as a student project using Retrieval-Augmented Generation (RAG),
 pretrained language models, and a streaming Gradio interface.
 This is an educational prototype, not an official IEEE service.
 
-## Demo
+
 
 ![IEEE AAST Assistant answering a handbook question](chatbot_demo.png)
 
